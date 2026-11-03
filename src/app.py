@@ -1,5 +1,5 @@
 import streamlit as st
-from src.predict import predict_valuation
+from predict import predict_valuation
 
 st.set_page_config(
     page_title="Startup Valuation Predictor",
